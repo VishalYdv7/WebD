@@ -21,3 +21,24 @@ a{color: white;}
  background-color: #061432;
  color: aliceblue;
 }
+#nvitems{
+    text-align: right;
+}
+.navbar-nav{
+    text-align: right;
+}
+.navbar{
+    padding-bottom: 4.5rem;
+}
+.navbar-brand {
+    font-size: large;
+    font-weight: bold;
+}
+#navbarSupportedContent{
+    text-align: right;
+}
+#footer{
+    background-color: aqua;
+    text-align: right;
+    font-size: larger;
+}
