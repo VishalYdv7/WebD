@@ -4,22 +4,31 @@ h1{
     font-size: 3rem;
     line-height: 1.5;
 }
+h3{
+    padding: 4%;
+}
 h4{
     color: aliceblue;
 }
 #Index{
     background-color: #1B2430;
+    padding: 4%;
+}
+.CuteDogs{
+    border-radius: 100%;
 }
 a{color: white;}
 #title{background-color: #15202b;
     color: aliceblue;
 }
-#Page{background-color: #15202b;
-    color: aliceblue;
+
+#Page{background-color: #fff;
+    color: black;
+    padding: 4%;
 }
 #Welcome{
- background-color: #061432;
- color: aliceblue;
+ background-color: #fff;
+ color: black;
 }
 #nvitems{
     text-align: right;
@@ -33,12 +42,32 @@ a{color: white;}
 .navbar-brand {
     font-size: large;
     font-weight: bold;
-}
+}      
 #navbarSupportedContent{
     text-align: right;
+}
+#users{
+    color: aliceblue;
+    background-color: #15202b;
+    text-align: center;
+}
+.profileImages{
+    padding: 4%;
+    width: auto;
+    border-radius: 100%;
+    margin-left: 50px;
+    margin-right: 50px;
+    display: inline-block;
+}
+.comments{
+    text-align: center;
+    display: inline-block;
+    padding: 5px;
+    width: 30%;
 }
 #footer{
     background-color: aqua;
     text-align: right;
     font-size: larger;
 }
+
