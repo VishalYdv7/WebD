@@ -26,8 +26,12 @@ a{color: white;}
     color: black;
     padding: 4%;
 }
+
+#Page{
+    background: linear-gradient(to right, #f86eac, #bf9dfb), linear-gradient(to bottom, #f86eac, #bf9dfb);
+}
+
 #Welcome{
- background-color: #fff;
  color: black;
 }
 #nvitems{
